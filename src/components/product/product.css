@@ -1,0 +1,14 @@
+.p {
+  width: 30%;
+  border: rgb(216, 200, 200) solid 1px;
+  height: 40vh;
+  margin-top: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.p_img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
